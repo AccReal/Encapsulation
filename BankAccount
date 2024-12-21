@@ -1,5 +1,4 @@
-public class BankAccount 
-{
+public class BankAccount {
     private String accountNumber;  // Закрытая переменная
     private double balance;        // Закрытая переменная
 
